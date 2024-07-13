@@ -1,10 +1,37 @@
 # Venkatesh Reddi
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/90749974?v=4"  />
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvenkatesh-reddi%2Fvenkatesh-reddi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/reddi_venki)](https://twitter.com/reddi_venki)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/venkateshreddi/)
+<h1 align="center">Venkatesh Reddi</h1>
+<h3 align="center">Developer | Lifelong Learner | Machine Learning Enthusiast</h3>
+<hr>
 
-[![Github](https://img.shields.io/github/followers/venkatesh-reddi?label=Follow&style=social)](https://github.com/venkatesh-reddi)
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/venkateshreddi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitter.com/reddi_venki" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://dev.to/venkateshreddi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/venkateshreddi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="venkateshreddi@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/22803991" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+
+###
 
 - 👋 Hey there! I love solving problems through code and exploring new tech possibilities.
 
@@ -35,4 +62,8 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-reddi&" alt="venkatesh-reddi" />
 </div>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=venkatesh-reddi.venkatesh-reddi&"  />
+</div>
